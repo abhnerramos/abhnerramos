@@ -1,6 +1,11 @@
 <h2>Hello, I'm Abhner Ramos</h2>
 <p>I am a programming and coding student. I am using Liferay Basic Training tutorial to expand my knowledge on this area.</p>
 
+<li> Age: 17</li>
+<li> Nationality: Brazilian</li>
+<li>Languages: Fluent in Portuguese and English</li>
+
+
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://github.com/abhnerramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhnerramos_" height="30" width="40" /></a>
