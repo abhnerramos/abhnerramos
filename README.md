@@ -1,5 +1,5 @@
 <h2>Hello, I'm Abhner Ramos</h2>
-<h6>I am a programming and coding student. I am using Liferay Basic Training tutorial to expand my knowledge on this area.</h6>
+<p>I am a programming and coding student. I am using Liferay Basic Training tutorial to expand my knowledge on this area.</p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
