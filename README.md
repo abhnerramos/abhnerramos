@@ -1,7 +1,7 @@
 <h2>Hello, I'm Abhner Ramos</h2>
 <p>I am a programming and coding student. I am using Liferay Basic Training tutorial to expand my knowledge on this area.</p>
 
-<li> Age: 17</li>
+<li> Age: 18 </li>
 <li> Nationality: Brazilian</li>
 <li>Languages: Fluent in Portuguese and English</li>
 
