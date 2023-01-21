@@ -1,5 +1,5 @@
 <h2>Hello, I'm Abhner Ramos</h2>
-<p>Cuurently working as Assoc Tester at Liferay Inc.</p>
+<p>Currently working as Assoc Tester at Liferay Inc.</p>
 
 <li> Age: 18 </li>
 <li> Nationality: Brazilian</li>
