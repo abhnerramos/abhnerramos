@@ -12,8 +12,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhnerramos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<div align="center">
+  <img height="206em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhnerramos&theme=solarized_dark"/>
+</div>
  
- ##
+<hr />
+
  
 <h4 align="center">CONNECT WITH ME:</h4>
 
@@ -22,15 +26,4 @@
   <a href = "https://www.linkedin.com/in/abhner-ramos-75302a223/"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://instagram.com/abhnerramos_"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:abhner.ramos.barbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  <hr />
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/abhnerramos/count.svg" />  
-</p>
-  
-  <hr />
-  <div align="center">
-  <img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhnerramos&theme=solarized_dark"/>
-
-</div>
  </div>
