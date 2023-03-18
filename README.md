@@ -3,7 +3,7 @@
 
 <li> Age: 18 </li>
 <li> Nationality: Brazilian</li>
-<li> Languages: Fluent in Portuguese and English</li>
+<li> Languages: Portuguese and English</li>
 
 ##
 <div align="center">
