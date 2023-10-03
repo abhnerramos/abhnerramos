@@ -1,5 +1,5 @@
 <h2>Hi there</h2>
-<p>Currently working as Assoc Tester at Liferay Inc.</p>
+<p>Currently working at Liferay Inc.</p>
 
 <li> Age: 18 </li>
 <li> Nationality: Brazilian</li>
