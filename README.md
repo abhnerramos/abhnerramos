@@ -1,7 +1,7 @@
 <h2>Hi there</h2>
 <p>Currently working at Liferay Inc as a Technical Writer.</p>
 
-<li> Age: 20 </li>
+<li> Age: 21 </li>
 <li> Nationality: Brazilian</li>
 <li> Languages: Portuguese and English</li>
 
