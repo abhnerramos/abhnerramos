@@ -4,13 +4,6 @@
 <li> Age: 21 </li>
 <li> Nationality: Brazilian</li>
 <li> Languages: Portuguese and English</li>
-
-##
-<div align="center">
-  <a href="https://github.com/abhnerramos">
-  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhnerramos&show_icons=true&theme=dark&include_all_commits=true"/>
-<!--   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhnerramos&theme=solarized_dark"/>
-</div> -->
  
 <hr />
 
