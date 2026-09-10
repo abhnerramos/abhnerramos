@@ -1,5 +1,5 @@
 <h2>Hi there</h2>
-<p>Currently working at Liferay Inc as a Technical Writer.</p>
+<p>Currently working at Liferay Inc as a Enablement Engineer.</p>
 
 <li> Age: 21 </li>
 <li> Nationality: Brazilian</li>
