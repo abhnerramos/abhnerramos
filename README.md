@@ -1,7 +1,7 @@
 <h2>Hi there</h2>
 <p>Currently working at Liferay Inc as a Enablement Engineer.</p>
 
-<li> Age: 21 </li>
+<li> Age: 22 </li>
 <li> Nationality: Brazilian</li>
 <li> Languages: Portuguese and English</li>
  
